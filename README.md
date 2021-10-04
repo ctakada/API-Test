@@ -1,12 +1,17 @@
-Descripción:
+# Descripción:
 
 Proyecto desarrollado con ExpressJS con login de usuario y despliegue de información desde data dummy.
 
-Instalacion: npm intall
+# Instalacion: 
+npm intall
 
 Variables de entorno  (.env):
 
 API configurada para correr en el puerto: 4000
 Cliente web configurado para funcionar en puerto 4200
+
+# Documentación:
+
+https://documenter.getpostman.com/view/9412659/UUy3ASDt
 
 
